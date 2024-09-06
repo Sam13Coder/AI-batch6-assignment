@@ -1,2 +1,2 @@
-# AI-batch6-assignment
-Assignment for AI Training
+# AI-Group4-Hackathon assignment
+Assignment for AI Hackathon
